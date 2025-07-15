@@ -2,11 +2,11 @@
 
 Last Updated: June 18, 2025
 
-1. **Introduction**
+**1. Introduction**
 
 94Talent ("**we**," "**us**," "**our**") is a Software as a Service provider offering a platform for businesses and individuals. This Privacy Policy explains how we collect, use, share, and protect personal information in connection with our platform and services. This Privacy Policy is designed to comply with applicable U.S. federal and state laws, including but not limited to the California Privacy Rights Act (CPRA), the Connecticut Data Privacy Act (CTDPA), the Virginia Consumer Data Protection Act (VCDPA), the Colorado Privacy Act (CPA), and the Utah Consumer Privacy Act (UCPA). By accessing or using our services, you acknowledge that you have read and understood this Privacy Policy.
 
-2. **Personal Information We Collect**
+**2. Personal Information We Collect**
 
 We collect the following categories of personal information, as necessary for our legitimate business purposes and service delivery:
 
@@ -20,7 +20,7 @@ We collect the following categories of personal information, as necessary for ou
 | **Support Data:** | Chat transcripts, support tickets, and satisfaction scores |
 | **Interview Data:** | Audio/video recordings, AI-generated feedback, and associated metadata. Any collection of biometric information will only occur with explicit, separate consent and in compliance with applicable biometric privacy laws including the Illinois Biometric Information Privacy Act (BIPA), and will be subject to our separate Biometric Data Privacy Notice |
 
-3. **How We Use Your Personal Information**
+**3. How We Use Your Personal Information**
 
 We use your personal information for legitimate business purposes, including but not limited to:
 
@@ -33,7 +33,7 @@ We use your personal information for legitimate business purposes, including but
 
 While we utilize artificial intelligence and automated systems to enhance our services, we implement human oversight in significant decisions affecting users. However, we reserve the right to use automated processing for security, fraud detection, and service optimization purposes.
 
-4. **How We Share Your Personal Information**
+**4. How We Share Your Personal Information**
 
 We share your personal information with the following third parties:
 
