@@ -49,7 +49,7 @@ We share your personal information with the following third parties:
 
 All third-party processors sign Data Processing Agreements that include confidentiality obligations and security requirements. While we do not sell your personal information as traditionally defined, certain data sharing activities with our partners may be considered a "sale" or "sharing" under state privacy laws. Additionally, we may engage in "cross-context behavioral advertising" as defined by applicable privacy laws. You can opt-out of such sharing as described in the "Your Rights and Choices" section.
 
-5. **Your Rights and Choices**
+**5. Your Rights and Choices**
 
 Under the CCPA, CTDPA, and UCPA, you have the following rights:
 
@@ -65,7 +65,7 @@ You may designate an authorized agent to exercise these rights on your behalf, s
 
 To exercise your rights, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com). We will verify your identity before processing your request using information you have previously provided to us. We will respond to your request within 45 days. If we require an additional 45-day extension due to the complexity or volume of requests, we will inform you of the reason and extension period in writing within the initial 45-day period.
 
-6. **Appeals Process**
+**6. Appeals Process**
 
 If we decline to take action on your request, we will inform you without undue delay, but no later than 45 days after receipt of the request, providing:
 
@@ -75,7 +75,7 @@ If we decline to take action on your request, we will inform you without undue d
 
 To appeal our decision, submit a written request to [privacy@94talent.com](mailto:privacy@94talent.com) within 30 days of receiving our decision. We will review your appeal and respond within 60 days of receipt, describing any action taken or not taken in response to the appeal and providing a written explanation of the reasons for our decisions. Our decision on your appeal will be final and binding, subject to any rights you may have under applicable law.
 
-7. **Data Retention and Security**
+**7. Data Retention and Security**
 
 We retain your personal information only as long as necessary to fulfill the purposes for which it was collected, to comply with legal and regulatory obligations, to resolve disputes, and to enforce our agreements. We may retain de-identified or aggregated data indefinitely. The table below outlines our retention periods for each category of personal information:
 
@@ -92,26 +92,26 @@ We retain your personal information only as long as necessary to fulfill the pur
 
 We implement appropriate technical and organizational measures to protect your personal information, including encryption, access controls, and regular security audits. However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security. By using our services, you acknowledge and accept these inherent risks.
 
-8. **Children's Privacy**
+**8. Children's Privacy**
 
 We do not knowingly collect personal information from individuals under the age of 13. If we become aware that we have collected personal information from a child under 13, we will take reasonable steps to delete such information from our files within 30 days. If you believe we may have collected information from a child under 13, please contact us immediately at [privacy@94talent.com](mailto:privacy@94talent.com).
 
-9. **International Data Transfers**
+**9. International Data Transfers**
 
 We comply with applicable laws when transferring personal information internationally. While our services are primarily intended for users in the United States, any international transfers of personal information will be protected by appropriate safeguards, such as Standard Contractual Clauses (SCCs), binding corporate rules, or other legally acceptable mechanisms. For transfers to third countries, we conduct transfer impact assessments and implement supplementary measures as required by applicable data protection laws. By using our services, you consent to your information being transferred to and processed in the United States and other countries where we and our third-party service providers operate.
 
-10. **Data Protection Assessments**
+**10. Data Protection Assessments**
 
 In compliance with applicable privacy laws, including the CTDPA, we conduct regular data protection assessments for processing activities that present a heightened risk of harm to consumers. These assessments evaluate the risks associated with the processing activities, implement measures to mitigate such risks, and are reviewed and updated periodically to ensure continued effectiveness. We maintain documentation of these assessments as required by law and may share relevant portions with regulatory authorities upon valid request.
 
-11. **UCPA-Specific Provisions**
+**11. UCPA-Specific Provisions**
     1. Correction Right: While the UCPA does not provide consumers with a right to correct inaccurate personal information, we offer this right to all users as a matter of good practice. We reserve the right to deny correction requests that are unreasonable, excessive, fraudulent, or would require disproportionate technical effort.
     2. Profiling: Under the UCPA, you have the right to opt-out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. However, this right does not apply to profiling necessary for service functionality, fraud prevention, security purposes, or where otherwise permitted by applicable law. To exercise this right, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com).
-12. **Updates to This Privacy Policy**
+**12. Updates to This Privacy Policy**
 
 We reserve the right to update this Privacy Policy at any time. We will notify you of any material changes via email through a prominent notice on our website at least 30 days before the changes take effect. The "Last Updated" date at the top of this policy will be revised when changes are made. Your continued use of our services after such changes constitutes your acceptance of the updated Privacy Policy. If you do not agree with the changes, you must discontinue use of our services. Non-material changes may be made without prior notice but will always be reflected in the "Last Updated" date.
 
-13. **Contact Us**
+**13. Contact Us**
 
 If you have any questions, concerns, or complaints about our privacy practices or this Privacy Policy, please contact our Data Protection Officer at the following address. All formal notices, legal claims, and official communications must be in writing and sent via certified mail or overnight courier with tracking and delivery confirmation. Email communications are for general inquiries only and will not be considered official legal notices:
 
