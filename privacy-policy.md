@@ -63,7 +63,7 @@ Under the CCPA, CTDPA, and UCPA, you have the following rights:
 
 You may designate an authorized agent to exercise these rights on your behalf, subject to verification of the agent's authority and your identity. We will not discriminate against you for exercising any of these rights. However, we may offer different levels of services or pricing based on legitimate business purposes or where permitted by law.
 
-To exercise your rights, please contact us at <privacy@94talent.com>. We will verify your identity before processing your request using information you have previously provided to us. We will respond to your request within 45 days. If we require an additional 45-day extension due to the complexity or volume of requests, we will inform you of the reason and extension period in writing within the initial 45-day period.
+To exercise your rights, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com). We will verify your identity before processing your request using information you have previously provided to us. We will respond to your request within 45 days. If we require an additional 45-day extension due to the complexity or volume of requests, we will inform you of the reason and extension period in writing within the initial 45-day period.
 
 1. **Appeals Process**
 
@@ -73,7 +73,7 @@ If we decline to take action on your request, we will inform you without undue d
   2. Instructions on how to appeal our decision
   3. Your right to contact the relevant state Attorney General's office (including California, Colorado, Connecticut, Virginia, or Utah) to submit a complaint
 
-To appeal our decision, submit a written request to <privacy@94talent.com> within 30 days of receiving our decision. We will review your appeal and respond within 60 days of receipt, describing any action taken or not taken in response to the appeal and providing a written explanation of the reasons for our decisions. Our decision on your appeal will be final and binding, subject to any rights you may have under applicable law.
+To appeal our decision, submit a written request to [privacy@94talent.com](mailto:privacy@94talent.com) within 30 days of receiving our decision. We will review your appeal and respond within 60 days of receipt, describing any action taken or not taken in response to the appeal and providing a written explanation of the reasons for our decisions. Our decision on your appeal will be final and binding, subject to any rights you may have under applicable law.
 
 1. **Data Retention and Security**
 
@@ -94,7 +94,7 @@ We implement appropriate technical and organizational measures to protect your p
 
 1. **Children's Privacy**
 
-We do not knowingly collect personal information from individuals under the age of 13. If we become aware that we have collected personal information from a child under 13, we will take reasonable steps to delete such information from our files within 30 days. If you believe we may have collected information from a child under 13, please contact us immediately at <privacy@94talent.com>.
+We do not knowingly collect personal information from individuals under the age of 13. If we become aware that we have collected personal information from a child under 13, we will take reasonable steps to delete such information from our files within 30 days. If you believe we may have collected information from a child under 13, please contact us immediately at [privacy@94talent.com](mailto:privacy@94talent.com).
 
 1. **International Data Transfers**
 
@@ -106,7 +106,7 @@ In compliance with applicable privacy laws, including the CTDPA, we conduct regu
 
 1. **UCPA-Specific Provisions**
     1. Correction Right: While the UCPA does not provide consumers with a right to correct inaccurate personal information, we offer this right to all users as a matter of good practice. We reserve the right to deny correction requests that are unreasonable, excessive, fraudulent, or would require disproportionate technical effort.
-    2. Profiling: Under the UCPA, you have the right to opt-out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. However, this right does not apply to profiling necessary for service functionality, fraud prevention, security purposes, or where otherwise permitted by applicable law. To exercise this right, please contact us at <privacy@94talent.com>.
+    2. Profiling: Under the UCPA, you have the right to opt-out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. However, this right does not apply to profiling necessary for service functionality, fraud prevention, security purposes, or where otherwise permitted by applicable law. To exercise this right, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com).
 2. **Updates to This Privacy Policy**
 
 We reserve the right to update this Privacy Policy at any time. We will notify you of any material changes via email through a prominent notice on our website at least 30 days before the changes take effect. The "Last Updated" date at the top of this policy will be revised when changes are made. Your continued use of our services after such changes constitutes your acceptance of the updated Privacy Policy. If you do not agree with the changes, you must discontinue use of our services. Non-material changes may be made without prior notice but will always be reflected in the "Last Updated" date.
@@ -121,7 +121,7 @@ Attn: Privacy Representative
 
 \[Address\]
 
-<privacy@94talent.com>
+[privacy@94talent.com](mailto:privacy@94talent.com)
 
 \[Phone\]
 
