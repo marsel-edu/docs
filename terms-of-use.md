@@ -1,95 +1,83 @@
-**Terms of Use**
+## Terms of Use
 
-Website: [www.94talent.com](http://www.94talent.com)
+Please also review our [**Data Processing Agreement**](./dpa), which is incorporated into these Terms. This “incorporation” line mirrors your existing structure.
 
-**Effective Date:** June 11, 2025
+94Talent Inc. (“Company”, “we”, “our”, “us”) offers this application, website, and associated services (collectively, “App”) for use subject to these Terms of Use. For the purposes of these Terms, “User” or “you” refers to any individual or entity using the App. Users may include, but are not limited to, business professionals, teams, employers, and candidates. This aligns with your existing definition format.
 
-Welcome to the website of 94Talent, a Delaware corporation (the “**Company**,” “**we**,” “**us**,” or “**our**”), accessible at [www.94talent.com](http://www.94talent.com) and any associated domains or subdomains (collectively, the “**Website**”). These Terms of Use (“**Terms**”) govern your access to and use of the Website, including any content, functionality, and services offered on or through the Website, as well as any future updates, modifications, or enhancements thereto. These Terms expressly exclude any services, products, or features provided under separate agreements with the Company, including but not limited to any subscription services, paid products, enterprise offerings, or other commercial arrangements, which are governed by their respective agreements. For clarity, if you have entered into a separate written agreement with the Company, that agreement's terms will control to the extent they conflict with these Terms. By accessing, browsing, or using the Website in any way, including merely viewing its content, you (“**User**,” “**you**,” or “**your**”) expressly acknowledge, represent, warrant and agree that: (i) you have read, understood, and agree to be bound by these Terms; (ii) you have the legal capacity and authority to enter into this binding agreement; (iii) if accessing the Website from a jurisdiction where use would be illegal or unauthorized, you do so at your own risk and are solely responsible for compliance with local laws; (iv) you will not access the Website from any jurisdiction where such access would be prohibited or restricted; and (v) you have not been previously suspended or removed from the Website. These Terms constitute a legally binding agreement between you and the Company. If you are accessing the Website on behalf of an organization, you represent and warrant that you have authority to bind that organization, and "you" refers to both you and the organization. If you do not agree to any part of these Terms, you must immediately cease using the Website and exit.
+By using the App, you represent that you are lawfully able to enter into contracts and that you are at least 18 years of age.
 
-**1. Acceptance of Terms**
+---
 
-By accessing or using the Website, you confirm you are at least 18 years old, have the legal capacity to enter into these Terms, and agree to comply with them. We may update these Terms periodically at our sole discretion. We will notify you of material changes by posting the updated Terms to the Website with a new Effective Date and, where appropriate, by email or prominent notice on the Website. Changes will be effective 30 days after posting, or immediately for security-related changes or changes required by law. Your continued use of the Website during or after the notice period constitutes binding acceptance of any modifications. If a change materially affects your rights or obligations, we will use reasonable efforts to notify you directly. Your continued use after the effective date constitutes acceptance of the modified Terms. If you do not agree to the modified Terms, you must stop using the Website.
+## App Overview
 
-**2. Intellectual Property**
+The App provides AI-powered recording and note-taking tools for meetings and conversations. It offers features for Users to record audio, generate transcriptions, create meeting summaries, and access key highlights without the need for third-party meeting participants or bots. The App includes functionality for Users to download recordings and transcripts, and search through past meetings. This is a lightly updated version of your current overview.
 
-    2.1. Ownership. All content, materials, features, and intellectual property on the Website, including but not limited to text, graphics, logos, images, software, code, design, user interface elements, databases, compilations, trademarks, trade dress, and other proprietary elements (collectively, “**Content**”), are owned by or licensed to 94Talent and protected by U.S. and international copyright, trademark, trade secret, and other intellectual property laws. Nothing in these Terms grants you any rights in the Content except as expressly stated herein.
+The App also provides an **Evaluation Copilot**, which may include scorecards, evaluation summaries, evaluation template generation, and a chatbot to interact with transcript, evaluation, and meeting summary data.
 
-    2.2. Limited License. We grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Website and Content solely for your internal business or personal purposes in accordance with these Terms, subject to your continued compliance with these Terms and any additional restrictions or guidelines we may impose from time to time. You may not: (a) copy, modify, distribute, sell, lease, reverse-engineer, decompile, disassemble, or create derivative works from the Content; (b) frame or mirror any part of the Website; (c) access the Website to build, develop, benchmark, or support a competitive product or service, or to assist anyone else in doing so; or (d) use any meta tags, hidden text, or similar devices containing our name or trademarks, without our prior written consent.
-    
-    2.3. User Submissions. Any feedback, comments, or materials you submit via the Website (“**Submissions**”) are non-confidential. By submitting, you grant us a perpetual, irrevocable, worldwide, royalty-free, sublicensable license to use, reproduce, modify, create derivative works from, distribute, perform, display, and exploit Submissions for any purpose and in any medium now known or hereafter developed, without compensation or attribution. You represent and warrant that your Submissions: (a) are original to you or you have all necessary rights to grant the licenses herein; (b) do not infringe any third-party intellectual property, privacy, publicity or other rights; and (c) comply with these Terms and applicable laws.
+---
 
-**3. User Accounts**
+## Third-Party AI Providers
 
-    3.1. Account Creation. Some Website features may require creating an account. You agree to: (a) provide accurate, current, and complete information during registration; (b) promptly update such information to maintain its accuracy; (c) create only one account; (d) not share or transfer your account; and (e) use a strong, unique password and implement reasonable security measures to protect your account; and (f) comply with any additional security requirements we may implement from time to time. You are solely responsible for maintaining the confidentiality of your account credentials and for all activities occurring under your account, whether or not authorized by you.
+The App uses third-party service providers to deliver certain AI features, including **AssemblyAI for transcription** and **OpenAI** for certain natural language processing features such as summaries, evaluation assistance, and chatbot responses.
 
-    3.2. Security. You must notify us immediately at \[CONTACT EMAIL\] of any unauthorized use or security breach of your account. We are not liable for losses resulting from unauthorized access due to your failure to secure your account.
+---
 
-    3.3. Termination. We may suspend, limit, or terminate your account and access to the Website immediately at our sole discretion, with or without notice, for any reason including but not limited to: violations of these Terms or applicable law, suspected fraudulent activity, security concerns, extended periods of inactivity, or if we believe your actions may cause legal liability for you, other users, or the Company. Upon termination, you must immediately cease all use of the Website and any associated services.
+## Account Creation and Management
 
-**4. Prohibited Activities and Acceptable Use**
+Users may create an account to use the App and must provide accurate, current, and complete information. Users are responsible for maintaining the confidentiality of their account credentials and for all activities that occur under their account. This responsibility includes recordings, transcriptions, meeting summaries, and evaluation outputs generated through their account. This follows your existing account responsibility framework.
 
-You agree not to:
+**Candidate and Employer Accounts.**\
+94Talent may offer separate account experiences for employers and candidates. **Candidate account data is not visible to employers by default** unless a candidate chooses to share specific information or the product enables authorized sharing.
 
-- Use the Website for any unlawful, fraudulent, malicious, or unauthorized purposes, or in any manner that could damage, disable, overburden, or impair the Website or interfere with any other party's use of the Website, including but not limited to any attempts to probe, scan, or test for vulnerabilities, or to breach or circumvent security or authentication measures;
-- Post or transmit content that is defamatory, obscene, hateful, discriminatory, threatening, harassing, infringing, or otherwise objectionable or harmful as determined in our sole discretion;
-- Interfere with the Website’s operation, security, or integrity, including but not limited to: introducing viruses, malware, ransomware, spyware, adware, or other harmful code; engaging in hacking, reverse engineering, penetration testing, vulnerability scanning, scraping, data mining, or denial-of-service attacks; attempting to probe, scan, or test the vulnerability of our systems or networks; or engaging in any activities that could damage, disable, overburden, or compromise our security systems or infrastructure;including by introducing viruses, malware, or engaging in hacking, scraping, or denial-of-service attacks;
-- Use automated tools, systems, or processes (including but not limited to bots, spiders, crawlers, scrapers, data mining tools, or similar mechanisms) to access, monitor, copy, extract, collect, harvest, or download data or information from the Website without our express prior written consent, which may be withheld or conditioned in our sole discretion; (e.g., bots, spiders) to access or extract data without our consent;
-- Circumvent, disable, or otherwise interfere with any security-related features of the Website, including those that prevent or restrict copying of Content or that limit use of the Website;r access restrictions;
-- Impersonate or attempt to impersonate any person or entity, including but not limited to Company personnel, other users, or representatives of third parties, or falsely state or otherwise misrepresent your affiliationwith any person or entity;
-- Use the Website to solicit others, conduct commercial activities, advertise products or services, send unsolicited communications, or engage in any revenue-generating endeavors without our express prior written permission. We reserve the right to investigate and take appropriate legal action against anyone who, in our sole discretion, violates these provisions, including without limitation, removing the offending content, suspending or terminating the account of such violators, and reporting them to law enforcement authorities.
+---
 
-**5. Disclaimers**
+## Recording Consent and Compliance
 
-    5.1. As-Is Basis. The Website and Content are provided “AS IS," "WITH ALL FAULTS,” and “AS AVAILABLE” without warranties or representations of any kind, whether express, implied, statutory, or otherwise, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, accuracy, reliability, completeness, uninterrupted access, or that the Website will be error-free, virus-free, or meet your requirements. Some jurisdictions do not allow the exclusion of certain warranties, so some of these exclusions may not apply to you. We expressly disclaim all warranties not stated in these Terms. Your use of the Website and any Content is entirely at your own risk. You acknowledge and agree that any reliance on or use of any Content or materials obtained through the Website shall be at your sole risk and discretion. The Company shall have no liability for your business decisions, actions, or omissions made in reliance on the Website or any Content.
+Users are solely responsible for ensuring that their use of the App complies with all applicable data protection, privacy, and recording laws. Users represent and warrant that they obtain clear, informed consent from all individuals before recording, transcribing, storing, or sharing any conversation or meeting using the App, where required by law; and that they will comply with organizational retention, deletion, and security policies. This maintains your current compliance posture.
 
-    5.2. No Guarantees. We do not guarantee the Website will be error-free, secure, uninterrupted, timely, or available at all times. The Website may contain technical inaccuracies or typographical errors. All information on the Website, including but not limited to pricing, product descriptions, and service information, is for general informational purposes only and does not constitute professional, financial, legal, or other advice. We reserve the right to correct any errors or omissions without prior notice. Information on the Website (e.g., about our services) is for general purposes and not tailored advice.
+This includes compliance obligations related to recording, storing, or sharing **candidate data** or evaluation information.
 
-**6. Limitation of Liability**
+If a User is subject to special industry regulations (e.g., HIPAA, GLBA, FINRA), they acknowledge the Company is not a regulated entity and the App does not provide compliance with such laws unless independently ensured by the User.
 
-To the fullest extent permitted by applicable law, and notwithstanding any other provision of these Terms or any statute or rule of law to the contrary:
+---
 
-- 94Talent, its affiliates, officers, directors, employees, agents, licensors, and suppliers (collectively, “**Company Parties**”) shall not be liable for any indirect, incidental, special, exemplary, consequential, or punitive damages, including but not limited to lost profits, revenue, data, goodwill, business opportunities, anticipated savings, or other intangible losses, arising from or relating to: (a) your access to or use of, or inability to access or use, the Website; (b) any conduct or content of any third party on the Website; (c) any content obtained from the Website; (d) unauthorized access, use or alteration of your transmissions or content; (e) any security breaches or data incidents; or (f) any business decisions made in reliance on the Website or Content, whether based on warranty, contract, tort (including negligence) or any other legal theory, and regardless of whether we have been informed of the possibility of such damage or whether any remedy fails of its essential purpose.
-- Our total aggregate liability for all claims related to the Website and these Terms, regardless of the form of action, shall not exceed the greater of $100 or the amount you paid us (if any) to access the Website in the twelve months preceding the claim.
-- These limitations apply regardless of the legal theory (e.g., contract, tort, statute) and even if a remedy fails its essential purpose. Some jurisdictions may not allow certain limitations, so they apply only to the extent permissible.
+## Plans and Pricing
 
-**7. Indemnification**
+The App may be available with a free plan and may offer paid plans. Additional plan and pricing information may be listed on the App and/or Company website. This remains consistent with your existing section.
 
-You agree to indemnify, defend, and hold harmless the Company Parties from and against any and all claims, actions, demands, liabilities, damages, losses, judgments, settlements, costs, and expenses (including reasonable attorneys’ fees and costs and any costs of investigation, dispute resolution, and enforcement of this provision) arising from or relating to: (a) your access to or use of the Website; (b) your violation of these Terms or any applicable law, rule, or regulation; (c) your Submissions; (d) any actual or alleged infringement of third-party intellectual property, privacy, publicity or other rights; (e) any dispute between you and a third party; or (f) any negligent acts, omissions, or willful misconduct by you. We reserve the right to assume the exclusive defense and control of any matter subject to indemnification, at your expense, and you agree to cooperate with our defense of such claims.
+---
 
-**8. Governing Law and Dispute Resolution**
+## Intellectual Property
 
-    8.1. Governing Law. These Terms are governed by and construed in accordance with the laws of the State of \[STATE\], without regard to its conflict of law principles. The United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transactions Act (UCITA) shall not apply to these Terms. You agree that the electronic nature of these Terms shall not affect their validity, enforceability, or interpretation.
+Company retains all right, title, and interest in and to the App and its AI technology. Users retain ownership of their original content and grant Company a license to process, use, store, and analyze such content as necessary for the App’s functionality. All transcriptions, summaries, highlights, and other AI-generated outputs are the intellectual property of Company, consistent with your existing IP approach.
 
-    8.2. Disputes. Any disputes arising from or relating to these Terms, the Website, or any related services shall be resolved exclusively in the state or federal courts located in New Castle County, Delaware. You expressly consent to the exercise of personal jurisdiction by such courts and agree that you will not challenge such jurisdiction or venue on any grounds, including forum non conveniens. You irrevocably consent to the personal jurisdiction and venue of these courts and waive any objection based on forum non conveniens or any other grounds. You agree that any claim or cause of action arising out of or related to the Website or these Terms must be filed within one (1) year after such claim or cause of action arose, or it will be forever barred.
+---
 
-    8.3. Class Action Waiver. To the maximum extent permitted by law, you expressly waive any right to participate in any class action, representative action, consolidated action, or collective arbitration proceeding related to these Terms, the Website, or any dispute with us. You agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action. or the Website.
+## Warranties and Disclaimers
 
-**9. Termination**
+THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND.
 
-We may suspend, restrict, or terminate your access to the Website at any time, with or without cause or notice, in our sole and absolute discretion, including but not limited to: violations of these Terms; suspected fraudulent, abusive, or illegal activity; potential security threats; risk of harm to other users; breach of any representations or warranties; or if required by law, court order, or regulatory authorities. We may also take any technical or legal measures to prevent further access by you. We may also take any technical measures to block or restrict your access. Upon termination: (a) your license to use the Website immediately ceases; (b) you must destroy all copies of Content in your possession; and (c) provisions that by their nature should survive, including but not limited to Sections related to Intellectual Property, Disclaimers, Limitation of Liability, Indemnification, Governing Law, and Dispute Resolution, remain in effect indefinitely.
+**AI-Generated Content Disclaimer.**\
+Company expressly disclaims responsibility for the accuracy of transcriptions, summaries, evaluation outputs, or other AI-generated content. The App is an assistive tool only. Users acknowledge that AI outputs may contain errors, omissions, or inaccuracies and that Users are solely responsible for reviewing and verifying AI-generated content before relying on it. This section is intentionally preserved in substance because it strongly supports your new “AI reasonings require human verification” requirement.
 
-**10. Third-Party Links and Services**
+**Evaluation Reasonings.**\
+AI-generated evaluation reasonings may be displayed to support or reflect user-provided score ratings, voice notes, or text notes based on transcript data. **Users remain responsible for validating these reasonings and for all final evaluation decisions.**
 
-The Website may contain links or connections to third-party websites, services, products, content, or resources not owned, controlled, or endorsed by us ("Third-Party Services"). We do not endorse, warrant, guarantee, monitor, control, or make any representations regarding any Third-Party Services, and we expressly disclaim any liability arising from your use of or reliance on any Third-Party Services, including without limitation their content, accuracy, safety, quality, reliability, completeness, timeliness, practices, privacy policies, or compliance with laws. Any Third-Party Services are subject to their own terms of use and privacy policies, which you should carefully review before use. Your use of third-party sites is at your own risk and subject to their respective terms of service and privacy policies. You release us from any claims or damages arising from your use of third-party sites.
+**Third-Party AI Disclaimer.**\
+The App may incorporate third-party AI models or external integrations not owned or controlled by Company. Company makes no warranties regarding the accuracy, reliability, legality, security, or compliance of third-party AI outputs. Users acknowledge reliance is at their own risk. This is consistent with your existing disclaimer structure.
 
-**11. Miscellaneous**
+---
 
-    11.1. Entire Agreement. These Terms, together with our Privacy Policy, any additional terms, policies, guidelines, or rules posted on the Website, and any other agreements expressly incorporated herein by reference, constitute the complete and exclusive agreement between you and 94Talent regarding the Website, superseding and replacing any prior agreements, communications, and proposals, whether oral or written, between you and 94Talent. No employee, agent, or other representative of 94Talent has any authority to bind 94Talent with respect to any statement, representation, warranty, or other expression not specifically set forth in these Terms. Any additional or different terms proposed by you, whether in a purchase order, acceptance, or otherwise, are hereby rejected and shall not become part of these Terms unless expressly agreed to in writing by an authorized representative of 94Talent.
+## Termination, Privacy Policy, and Other Standard Terms
 
-    11.2. Severability. If any provision of these Terms is found invalid, illegal, or unenforceable, that provision shall be modified to the minimum extent necessary to make it valid, legal, and enforceable while preserving its intent, or if that is not possible, severed from these Terms. In such case, you agree that we may substitute the invalid provision with a valid one that most closely matches the intent and economic effect of the invalid provision. The remaining provisions shall continue in full force and effect.
+Your existing sections on termination, links to third-party sites, electronic communications, limitation of liability, indemnification, arbitration, severability, and entire agreement can remain materially the same with brand and product-name updates. (These sections are already drafted broadly enough to cover the pivot.)
 
-    11.3. No Waiver. Our failure or delay in exercising any right, power, or privilege under these Terms shall not operate as a waiver thereof, nor shall any single or partial exercise of any right, power, or privilege preclude any other or further exercise thereof. No waiver by us shall be valid unless expressly made in writing and signed by our authorized representative.
-
-    11.4. Assignment. We may freely assign, transfer, delegate, sublicense, or otherwise dispose of these Terms or any of our rights or obligations hereunder, in whole or in part, without your consent, including in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of our assets. You may not assign, transfer, delegate, sublicense, or otherwise dispose of any of your rights or obligations under these Terms without our prior written consent, which may be withheld in our sole discretion. Any attempted assignment, transfer, delegation, or sublicense without such consent shall be void and of no effect. These Terms shall be binding upon and inure to the benefit of the parties' permitted successors and assigns.
-    
-    11.5. Force Majeure. We shall not be liable for any delay, failure in performance, loss, damage, or unavailability of the Website or any features thereof due to causes beyond our reasonable control, including but not limited to: acts of God; pandemic; epidemic; war; terrorism; civil unrest; labor disputes; power, telecommunication, internet, or network failures or limitations; hardware failures; cyberattacks; security breaches; changes in laws, regulations, or regulatory requirements; supply chain disruptions; acts of government authorities; distributed denial of service attacks; or other similar events. During such events, we may temporarily or permanently modify, suspend, or terminate any part of the Website without liability. In such events, we may suspend or terminate services immediately upon notice to you.
-
-**12. Contact Us**
+## **Contact Us**
 
 For questions about these Terms or to report violations, please contact our legal department at:
 
-94Talent
+94Talent Inc.
 
 1111B S Governors Ave STE 26713, Dover, DE 19904
 
-[privacy@94talent.com](mailto:privacy@94talent.com)
+[legal@94talent.com](mailto:legal@94talent.com)

@@ -1,8 +1,8 @@
 ## **Privacy Policy**
 
-This privacy policy (“Privacy Policy” or “Policy”) applies to **[WEBSITE]**, the **94Talent App**, and **Gollum AI LLC** (“Company”, “we”, “us”, “our”), and governs data collection and usage. This updated draft follows the same scope framing as your Memora policy, with brand and product updates. Privacy Policy - Memora
+This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage. This updated draft follows the same scope framing as your Memora policy, with brand and product updates. Privacy Policy - Memora
 
-For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company, app, site, website, or Company website mean **[WEBSITE]**, the 94Talent App, and Gollum AI LLC. By using the Company website and/or App, you consent to the data practices described in this Privacy Policy.
+For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company, app, site, website, or Company website mean [**94talent.com**](94talent.com) the 94Talent App, and 94Talent Inc. By using the Company website and/or App, you consent to the data practices described in this Privacy Policy.
 
 ## Collection of Your Personal Information
 
@@ -89,13 +89,13 @@ Company reserves the right to change this Privacy Policy from time to time and w
 
 ## Contact Information
 
-94Talent
+94Talent Inc.
 
 Attn: Privacy Representative
 
 1111B S Governors Ave STE 26713, Dover, DE 19904
 
-[privacy@94talent.com](mailto:privacy@94talent.com)
+[legal@94talent.com](mailto:legal@94talent.com)
 
 We are committed to working with you to obtain a fair and prompt resolution of any privacy-related concerns.
 
