@@ -1,119 +1,93 @@
-**PRIVACY POLICY**
+## **Privacy Policy**
 
-Last Updated: June 18, 2025
+This privacy policy (“Privacy Policy” or “Policy”) applies to **[WEBSITE]**, the **94Talent App**, and **Gollum AI LLC** (“Company”, “we”, “us”, “our”), and governs data collection and usage. This updated draft follows the same scope framing as your Memora policy, with brand and product updates. Privacy Policy - Memora
 
-**1. Introduction**
+For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company, app, site, website, or Company website mean **[WEBSITE]**, the 94Talent App, and Gollum AI LLC. By using the Company website and/or App, you consent to the data practices described in this Privacy Policy.
 
-94Talent ("**we**," "**us**," "**our**") is a Software as a Service provider offering a platform for businesses and individuals. This Privacy Policy explains how we collect, use, share, and protect personal information in connection with our platform and services. This Privacy Policy is designed to comply with applicable U.S. federal and state laws, including but not limited to the California Privacy Rights Act (CPRA), the Connecticut Data Privacy Act (CTDPA), the Virginia Consumer Data Protection Act (VCDPA), the Colorado Privacy Act (CPA), and the Utah Consumer Privacy Act (UCPA). By accessing or using our services, you acknowledge that you have read and understood this Privacy Policy.
+## Collection of Your Personal Information
 
-**2. Personal Information We Collect**
+In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These may include: first and last name; mailing address; billing address; e-mail address; phone number; **voice recordings**; **AI transcriptions**; **speaker identification data**; and information from documents you choose to upload such as resumes and other personal documents. This builds on your prior collection list.
 
-We collect the following categories of personal information, as necessary for our legitimate business purposes and service delivery:
+Company may also collect or generate additional information in connection with 94Talent’s evaluation features, including:
 
-| **Identifiers:** | Your name, email address, phone number, physical address, and résumé/CV content |
-| --- | --- |
-| **Account Data:** | Your encrypted password and OAuth tokens (e.g., Google, LinkedIn) |
-| **Device Data:** | Your IP address, device type, operating system, browser, time zone, language, and other technical identifiers necessary for service delivery and security purposes |
-| **Usage Data:** | Pages viewed, clicks, scroll depth, session duration, referring URL, and UTM tags |
-| **Marketing Data:** | Email open rates, link clicks, campaign source, and ad-impression IDs |
-| **Payment Data:** | Your Stripe customer ID, subscription tier, last 4 digits of your payment card, and payment status |
-| **Support Data:** | Chat transcripts, support tickets, and satisfaction scores |
-| **Interview Data:** | Audio/video recordings, AI-generated feedback, and associated metadata. Any collection of biometric information will only occur with explicit, separate consent and in compliance with applicable biometric privacy laws including the Illinois Biometric Information Privacy Act (BIPA), and will be subject to our separate Biometric Data Privacy Notice |
+- **scorecards** and score ratings,
+- **evaluation summaries**,
+- **evaluation templates**,
+- **AI-generated reasonings** associated with ratings, voice notes, or text notes,
+- and **chatbot interactions** tied to transcripts, evaluations, and meeting summaries.
 
-**3. How We Use Your Personal Information**
+Except as otherwise stated in this Policy, Company does not collect any personal information about you unless you voluntarily provide it to Company. However, you may be required to provide certain personal information to Company when you elect to use certain services.
 
-We use your personal information for legitimate business purposes, including but not limited to:
+Company also may gather additional personal or non-personal information about you from third parties including, but not limited to, publicly available sources, third-party data providers, and business partners, which will be treated in accordance with this Privacy Policy.
 
-  1. Provide, maintain, and improve our core services, including but not limited to account creation, interview recording, feedback generation, talent matching, search, and payment processing, as well as any additional features or services we may introduce.
-  2. Ensure platform security and integrity through load-balancing, fraud detection, uptime monitoring, and abuse prevention.
-  3. Improve our product and services via A/B testing, funnel analysis, and feature prioritization.
-  4. Communicate with you for marketing purposes, such as onboarding emails, newsletters, and retargeting ads.
-  5. Provide customer support by answering inquiries, resolving issues, and measuring satisfaction.
-  6. Comply with legal and regulatory obligations, including KYC/AML for payments and responding to lawful requests.
+## Use of Your Personal Information
 
-While we utilize artificial intelligence and automated systems to enhance our services, we implement human oversight in significant decisions affecting users. However, we reserve the right to use automated processing for security, fraud detection, and service optimization purposes.
+Company collects and uses your personal information to operate and deliver the services you have requested. This includes using your contact information for account management and billing purposes; processing your voice recordings to provide transcription and speaker identification services; utilizing uploaded documents to personalize your experience; and providing marketing communications, consistent with your existing policy approach.
 
-**4. How We Share Your Personal Information**
+In addition, 94Talent may use transcripts and related data to provide:
 
-We share your personal information with the following third parties:
+- meeting summaries and highlights,
+- evaluation copilot features such as scorecards, evaluation summaries, and evaluation template generation,
+- and chatbot functionality that enables interaction with transcripts, evaluations, and meeting summaries.
 
-| **Cloud Hosting** | Third parties like Amazon Web Services (AWS) for databases, website, and backups |
-| --- | --- |
-| **Analytics** | Third parties like Google Analytics for website traffic analysis and experiments |
-| **Email Tools** | Third parties like Amazon SES for transactional and campaign emails |
-| **Payments** | Third parties like Stripe for secure transaction processing (we do not access full card numbers) |
-| **Advertising Partners** | Third parties like Google Ads, Meta, and LinkedIn for ads and conversion tracking (using pseudonymized IDs) |
-| **Hiring Partners** | Companies reviewing candidate profiles (with user consent) |
-| **Regulators** | Government agencies when legally required |
-| **Successors** | In the context of business transactions, with privacy commitments |
+## Personal Information in Transcribed Content
 
-All third-party processors sign Data Processing Agreements that include confidentiality obligations and security requirements. While we do not sell your personal information as traditionally defined, certain data sharing activities with our partners may be considered a "sale" or "sharing" under state privacy laws. Additionally, we may engage in "cross-context behavioral advertising" as defined by applicable privacy laws. You can opt-out of such sharing as described in the "Your Rights and Choices" section.
+Company’s services may involve transcribing audio conversations which may incidentally contain personal information spoken by users or participants. This information is processed as part of delivering our transcription and related services. Your earlier policy treated this primarily as part of transcription delivery; this update expands that framing to include evaluation assistance when enabled.
 
-**5. Your Rights and Choices**
+## Candidate and Employer Accounts
 
-Under the CCPA, CTDPA, and UCPA, you have the following rights:
+94Talent may offer separate account experiences for employers and candidates. **Candidate account data is not visible to employers by default** unless a candidate chooses to share specific information or the product enables authorized sharing.
 
-  1. Access your personal information (subject to certain exceptions permitted by law)
-  2. Correct inaccuracies in your personal information (except under the UCPA)
-  3. Delete personal information you have provided to us
-  4. Obtain a copy of your personal information in a portable format
-  5. Opt-out of the processing of your personal information for targeted advertising
-  6. Opt-out of the sale of your personal information
-  7. Opt-out of profiling in furtherance of decisions that produce legal or similarly significant effects (UCPA)
+## Sharing Information with Third Parties
 
-You may designate an authorized agent to exercise these rights on your behalf, subject to verification of the agent's authority and your identity. We will not discriminate against you for exercising any of these rights. However, we may offer different levels of services or pricing based on legitimate business purposes or where permitted by law.
+Company does not sell, rent, or lease your data to third parties. However, Company may share your personal information with third parties to deliver targeted advertisements as described in this Policy. Company may also share personal information and non-personal data with trusted service providers and partners who assist in operating our website, conducting our business, or providing services to you (e.g., hosting, email, analytics, customer support, cloud storage, and AI providers). This is consistent with your existing sharing framework.
 
-To exercise your rights, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com). We will verify your identity before processing your request using information you have previously provided to us. We will respond to your request within 45 days. If we require an additional 45-day extension due to the complexity or volume of requests, we will inform you of the reason and extension period in writing within the initial 45-day period.
+**AI and Transcription Providers.**\
+We use **AssemblyAI** to generate AI transcriptions and related speech analysis. We may also use **OpenAI** to provide AI-generated summaries, evaluation assistance, and chatbot functionality. When you enable these features, audio, transcripts, evaluation content, or related inputs may be processed by these providers on our behalf.
 
-**6. Appeals Process**
+The use of your data by such third parties will be subject to their privacy policies and contractual terms with Company.
 
-If we decline to take action on your request, we will inform you without undue delay, but no later than 45 days after receipt of the request, providing:
+Company may disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to comply with legal process, protect the rights or property of Company, or protect personal safety.
 
-  1. The reasons for declining to take action
-  2. Instructions on how to appeal our decision
-  3. Your right to contact the relevant state Attorney General's office (including California, Colorado, Connecticut, Virginia, or Utah) to submit a complaint
+## Calendar Integration
 
-To appeal our decision, submit a written request to [privacy@94talent.com](mailto:privacy@94talent.com) within 30 days of receiving our decision. We will review your appeal and respond within 60 days of receipt, describing any action taken or not taken in response to the appeal and providing a written explanation of the reasons for our decisions. Our decision on your appeal will be final and binding, subject to any rights you may have under applicable law.
+If enabled, the Google Calendar integration API may be used to retrieve upcoming meeting information and assist with recording workflows. We comply with the Google API Services User Data Policy, including Limited Use requirements, consistent with your prior policy language.
 
-**7. Data Retention and Security**
+## Automatically Collected Information
 
-We retain your personal information only as long as necessary to fulfill the purposes for which it was collected, to comply with legal and regulatory obligations, to resolve disputes, and to enforce our agreements. We may retain de-identified or aggregated data indefinitely. The table below outlines our retention periods for each category of personal information:
+Information about your computer hardware and software may be automatically collected by Company (e.g., IP address, browser type, domain names, access times, referring websites). This information is used for the operation of the website, to maintain quality, and to provide general usage statistics.
 
-| **Category** | **Retention Period** |
-| --- | --- |
-| Identifiers | 7 years after last account activity |
-| Account Data | 7 years after last account activity |
-| Device Data | 2 years |
-| Usage Data | 2 years |
-| Marketing Data | 3 years |
-| Payment Data | 7 years (for tax purposes) |
-| Support Data | 3 years after ticket closure |
-| Interview Data | 2 years after interview date |
+## Use of Cookies and Advertising Technologies
 
-We implement appropriate technical and organizational measures to protect your personal information, including encryption, access controls, and regular security audits. However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee its absolute security. By using our services, you acknowledge and accept these inherent risks.
+Company website uses cookies to enhance and personalize your online experience, including essential/functional cookies, analytics cookies, and third-party advertising cookies. You can accept or decline cookies through your browser settings. Your existing policy’s cookie taxonomy and advertising partner approach can remain unchanged with the brand update.
 
-**8. Children's Privacy**
+## Security of Your Personal Information
 
-We do not knowingly collect personal information from individuals under the age of 13. If we become aware that we have collected personal information from a child under 13, we will take reasonable steps to delete such information from our files within 30 days. If you believe we may have collected information from a child under 13, please contact us immediately at [privacy@94talent.com](mailto:privacy@94talent.com).
+Company takes industry-standard security measures to protect against unauthorized access to or alteration of your personal information. However, no data transmission over the internet or wireless network can be guaranteed to be fully secure. We will notify you in accordance with applicable laws in the event of a data breach affecting your personal information.
 
-**9. International Data Transfers**
+## Data Storage and Retention
 
-We comply with applicable laws when transferring personal information internationally. While our services are primarily intended for users in the United States, any international transfers of personal information will be protected by appropriate safeguards, such as Standard Contractual Clauses (SCCs), binding corporate rules, or other legally acceptable mechanisms. For transfers to third countries, we conduct transfer impact assessments and implement supplementary measures as required by applicable data protection laws. By using our services, you consent to your information being transferred to and processed in the United States and other countries where we and our third-party service providers operate.
+Company retains your personal information for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements. Your prior policy referenced storage locally on device and/or in U.S. cloud infrastructure; you can keep that structure, but this updated draft avoids implying local transcription.
 
-**10. Data Protection Assessments**
+You have control over your data and can delete it through the App interface, subject to legal exceptions.
 
-In compliance with applicable privacy laws, including the CTDPA, we conduct regular data protection assessments for processing activities that present a heightened risk of harm to consumers. These assessments evaluate the risks associated with the processing activities, implement measures to mitigate such risks, and are reviewed and updated periodically to ensure continued effectiveness. We maintain documentation of these assessments as required by law and may share relevant portions with regulatory authorities upon valid request.
+## Sensitive Personal Information
 
-**11. UCPA-Specific Provisions**
-    1. Correction Right: While the UCPA does not provide consumers with a right to correct inaccurate personal information, we offer this right to all users as a matter of good practice. We reserve the right to deny correction requests that are unreasonable, excessive, fraudulent, or would require disproportionate technical effort.
-    2. Profiling: Under the UCPA, you have the right to opt-out of profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. However, this right does not apply to profiling necessary for service functionality, fraud prevention, security purposes, or where otherwise permitted by applicable law. To exercise this right, please contact us at [privacy@94talent.com](mailto:privacy@94talent.com).
-**12. Updates to This Privacy Policy**
+Company does not intentionally collect sensitive personal information through its website. However, due to the nature of audio recording and transcription services, sensitive information may be incidentally captured in recorded conversations. Users should exercise caution when recording such information. (This section can remain substantially the same as your current policy.)
 
-We reserve the right to update this Privacy Policy at any time. We will notify you of any material changes via email through a prominent notice on our website at least 30 days before the changes take effect. The "Last Updated" date at the top of this policy will be revised when changes are made. Your continued use of our services after such changes constitutes your acceptance of the updated Privacy Policy. If you do not agree with the changes, you must discontinue use of our services. Non-material changes may be made without prior notice but will always be reflected in the "Last Updated" date.
+## Children’s Privacy
 
-**13. Contact Us**
+Our services are not directed to individuals under the age of 13. We do not knowingly collect personal information from anyone under 13.
 
-If you have any questions, concerns, or complaints about our privacy practices or this Privacy Policy, please contact our Data Protection Officer at the following address. All formal notices, legal claims, and official communications must be in writing and sent via certified mail or overnight courier with tracking and delivery confirmation. Email communications are for general inquiries only and will not be considered official legal notices:
+## Your Privacy Rights
+
+Depending on your location, you may have rights to know, access, delete, correct, limit use of sensitive information, opt-out of sharing for targeted advertising, and other rights under applicable laws. Your existing rights framework and timelines can remain intact.
+
+## Changes to This Privacy Policy
+
+Company reserves the right to change this Privacy Policy from time to time and will notify you by updating this Policy on the website and by making reasonable efforts to notify you based on the significance of changes.
+
+## Contact Information
 
 94Talent
 
