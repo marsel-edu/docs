@@ -1,6 +1,6 @@
 ## **Privacy Policy**
 
-This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage. This updated draft follows the same scope framing as your Memora policy, with brand and product updates. Privacy Policy - Memora
+This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage. 
 
 For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company, app, site, website, or Company website mean [**94talent.com**](94talent.com) the 94Talent App, and 94Talent Inc. By using the Company website and/or App, you consent to the data practices described in this Privacy Policy.
 
