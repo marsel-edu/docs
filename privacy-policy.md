@@ -40,7 +40,7 @@ Company’s services may involve transcribing audio conversations which may inci
 
 ## Sharing Information with Third Parties
 
-Company does not sell, rent, or lease your data to third parties. However, Company may share your personal information with third parties to deliver targeted advertisements as described in this Policy. Company may also share personal information and non-personal data with trusted service providers and partners who assist in operating our website, conducting our business, or providing services to you (e.g., hosting, email, analytics, customer support, cloud storage, and AI providers). This is consistent with your existing sharing framework.
+Company does not sell, rent, or lease your data to third parties. However, Company may share your personal information with third parties to deliver targeted advertisements as described in this Policy. Company may also share personal information and non-personal data with trusted service providers and partners who assist in operating our website, conducting our business, or providing services to you (e.g., hosting, email, analytics, customer support, cloud storage, and AI providers). 
 
 **AI and Transcription Providers.**\
 We use **AssemblyAI** to generate AI transcriptions and related speech analysis. We may also use **OpenAI** to provide AI-generated summaries, evaluation assistance, and chatbot functionality. When you enable these features, audio, transcripts, evaluation content, or related inputs may be processed by these providers on our behalf.
@@ -73,7 +73,7 @@ You have control over your data and can delete it through the App interface, sub
 
 ## Sensitive Personal Information
 
-Company does not intentionally collect sensitive personal information through its website. However, due to the nature of audio recording and transcription services, sensitive information may be incidentally captured in recorded conversations. Users should exercise caution when recording such information. (This section can remain substantially the same as your current policy.)
+Company does not intentionally collect sensitive personal information through its website. However, due to the nature of audio recording and transcription services, sensitive information may be incidentally captured in recorded conversations. Users should exercise caution when recording such information. 
 
 ## Children’s Privacy
 
