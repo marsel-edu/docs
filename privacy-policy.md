@@ -1,6 +1,6 @@
 ## **Privacy Policy**
 
-This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage. 
+This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage.
 
 For the purposes of this Privacy Policy, unless otherwise noted, all references to the Company, app, site, website, or Company website mean [**94talent.com**](94talent.com) the 94Talent App, and 94Talent Inc. By using the Company website and/or App, you consent to the data practices described in this Privacy Policy.
 
@@ -67,7 +67,7 @@ Company takes industry-standard security measures to protect against unauthorize
 
 ## Data Storage and Retention
 
-Company retains your personal information for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements. Your prior policy referenced storage locally on device and/or in U.S. cloud infrastructure; you can keep that structure, but this updated draft avoids implying local transcription.
+Company retains your personal information for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements. 
 
 You have control over your data and can delete it through the App interface, subject to legal exceptions.
 
