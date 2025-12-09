@@ -49,7 +49,7 @@ The App may be available with a free plan and may offer paid plans. Additional p
 
 ## Intellectual Property
 
-Company retains all right, title, and interest in and to the App and its AI technology. Users retain ownership of their original content and grant Company a license to process, use, store, and analyze such content as necessary for the App’s functionality. All transcriptions, summaries, highlights, and other AI-generated outputs are the intellectual property of Company, consistent with your existing IP approach.
+Company retains all right, title, and interest in and to the App and its AI technology. Users retain ownership of their original content and grant Company a license to process, use, store, and analyze such content as necessary for the App’s functionality. All transcriptions, summaries, highlights, and other AI-generated outputs are the intellectual property of Company.
 
 ---
 
