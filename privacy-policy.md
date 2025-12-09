@@ -6,7 +6,7 @@ For the purposes of this Privacy Policy, unless otherwise noted, all references 
 
 ## Collection of Your Personal Information
 
-In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These may include: first and last name; mailing address; billing address; e-mail address; phone number; **voice recordings**; **AI transcriptions**; **speaker identification data**; and information from documents you choose to upload such as resumes and other personal documents. This builds on your prior collection list.
+In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These may include: first and last name; mailing address; billing address; e-mail address; phone number; **voice recordings**; **AI transcriptions**; **speaker identification data**; and information from documents you choose to upload such as resumes and other personal documents. 
 
 Company may also collect or generate additional information in connection with 94Talent’s evaluation features, including:
 
@@ -67,7 +67,7 @@ Company takes industry-standard security measures to protect against unauthorize
 
 ## Data Storage and Retention
 
-Company retains your personal information for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements. 
+Company retains your personal information for as long as necessary to fulfill the purposes for which it was collected, including legal, accounting, or reporting requirements.
 
 You have control over your data and can delete it through the App interface, subject to legal exceptions.
 
