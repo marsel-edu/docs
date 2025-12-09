@@ -32,7 +32,7 @@ In addition, 94Talent may use transcripts and related data to provide:
 
 ## Personal Information in Transcribed Content
 
-Company’s services may involve transcribing audio conversations which may incidentally contain personal information spoken by users or participants. This information is processed as part of delivering our transcription and related services. Your earlier policy treated this primarily as part of transcription delivery; this update expands that framing to include evaluation assistance when enabled.
+Company’s services may involve transcribing audio conversations which may incidentally contain personal information spoken by users or participants. This information is processed as part of delivering our transcription and related services. 
 
 ## Candidate and Employer Accounts
 
