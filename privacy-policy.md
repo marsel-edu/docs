@@ -51,7 +51,7 @@ Company may disclose your personal information, without notice, if required to d
 
 ## Calendar Integration
 
-If enabled, the Google Calendar integration API may be used to retrieve upcoming meeting information and assist with recording workflows. We comply with the Google API Services User Data Policy, including Limited Use requirements, consistent with your prior policy language.
+If enabled, the Google Calendar integration API may be used to retrieve upcoming meeting information and assist with recording workflows. We comply with the Google API Services User Data Policy, including Limited Use requirements.
 
 ## Automatically Collected Information
 
