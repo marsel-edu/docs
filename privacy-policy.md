@@ -6,7 +6,7 @@ For the purposes of this Privacy Policy, unless otherwise noted, all references 
 
 ## Collection of Your Personal Information
 
-In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These may include: first and last name; mailing address; billing address; e-mail address; phone number; **voice recordings**; **AI transcriptions**; **speaker identification data**; and information from documents you choose to upload such as resumes and other personal documents. 
+In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These may include: first and last name; mailing address; billing address; e-mail address; phone number; **voice recordings**; **AI transcriptions**; **speaker identification data**; and information from documents you choose to upload such as resumes and other personal documents.
 
 Company may also collect or generate additional information in connection with 94Talent’s evaluation features, including:
 
@@ -22,7 +22,7 @@ Company also may gather additional personal or non-personal information about yo
 
 ## Use of Your Personal Information
 
-Company collects and uses your personal information to operate and deliver the services you have requested. This includes using your contact information for account management and billing purposes; processing your voice recordings to provide transcription and speaker identification services; utilizing uploaded documents to personalize your experience; and providing marketing communications, consistent with your existing policy approach.
+Company collects and uses your personal information to operate and deliver the services you have requested. This includes using your contact information for account management and billing purposes; processing your voice recordings to provide transcription and speaker identification services; utilizing uploaded documents to personalize your experience; and providing marketing communications.
 
 In addition, 94Talent may use transcripts and related data to provide:
 
@@ -32,7 +32,7 @@ In addition, 94Talent may use transcripts and related data to provide:
 
 ## Personal Information in Transcribed Content
 
-Company’s services may involve transcribing audio conversations which may incidentally contain personal information spoken by users or participants. This information is processed as part of delivering our transcription and related services. 
+Company’s services may involve transcribing audio conversations which may incidentally contain personal information spoken by users or participants. This information is processed as part of delivering our transcription and related services.
 
 ## Candidate and Employer Accounts
 
@@ -40,7 +40,7 @@ Company’s services may involve transcribing audio conversations which may inci
 
 ## Sharing Information with Third Parties
 
-Company does not sell, rent, or lease your data to third parties. However, Company may share your personal information with third parties to deliver targeted advertisements as described in this Policy. Company may also share personal information and non-personal data with trusted service providers and partners who assist in operating our website, conducting our business, or providing services to you (e.g., hosting, email, analytics, customer support, cloud storage, and AI providers). 
+Company does not sell, rent, or lease your data to third parties. However, Company may share your personal information with third parties to deliver targeted advertisements as described in this Policy. Company may also share personal information and non-personal data with trusted service providers and partners who assist in operating our website, conducting our business, or providing services to you (e.g., hosting, email, analytics, customer support, cloud storage, and AI providers).
 
 **AI and Transcription Providers.**\
 We use **AssemblyAI** to generate AI transcriptions and related speech analysis. We may also use **OpenAI** to provide AI-generated summaries, evaluation assistance, and chatbot functionality. When you enable these features, audio, transcripts, evaluation content, or related inputs may be processed by these providers on our behalf.
@@ -73,7 +73,7 @@ You have control over your data and can delete it through the App interface, sub
 
 ## Sensitive Personal Information
 
-Company does not intentionally collect sensitive personal information through its website. However, due to the nature of audio recording and transcription services, sensitive information may be incidentally captured in recorded conversations. Users should exercise caution when recording such information. 
+Company does not intentionally collect sensitive personal information through its website. However, due to the nature of audio recording and transcription services, sensitive information may be incidentally captured in recorded conversations. Users should exercise caution when recording such information.
 
 ## Children’s Privacy
 
