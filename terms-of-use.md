@@ -43,7 +43,7 @@ If a User is subject to special industry regulations (e.g., HIPAA, GLBA, FINRA),
 
 ## Plans and Pricing
 
-The App may be available with a free plan and may offer paid plans. Additional plan and pricing information may be listed on the App and/or Company website. This remains consistent with your existing section.
+The App may be available with a free plan and may offer paid plans. Additional plan and pricing information may be listed on the App and/or Company website. 
 
 ---
 
@@ -58,7 +58,7 @@ Company retains all right, title, and interest in and to the App and its AI tech
 THE APP IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS WITHOUT WARRANTIES OF ANY KIND.
 
 **AI-Generated Content Disclaimer.**\
-Company expressly disclaims responsibility for the accuracy of transcriptions, summaries, evaluation outputs, or other AI-generated content. The App is an assistive tool only. Users acknowledge that AI outputs may contain errors, omissions, or inaccuracies and that Users are solely responsible for reviewing and verifying AI-generated content before relying on it. This section is intentionally preserved in substance because it strongly supports your new “AI reasonings require human verification” requirement.
+Company expressly disclaims responsibility for the accuracy of transcriptions, summaries, evaluation outputs, or other AI-generated content. The App is an assistive tool only. Users acknowledge that AI outputs may contain errors, omissions, or inaccuracies and that Users are solely responsible for reviewing and verifying AI-generated content before relying on it. 
 
 **Evaluation Reasonings.**\
 AI-generated evaluation reasonings may be displayed to support or reflect user-provided score ratings, voice notes, or text notes based on transcript data. **Users remain responsible for validating these reasonings and for all final evaluation decisions.**
