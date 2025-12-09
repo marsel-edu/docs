@@ -70,7 +70,7 @@ The App may incorporate third-party AI models or external integrations not owned
 
 ## Termination, Privacy Policy, and Other Standard Terms
 
-Your existing sections on termination, links to third-party sites, electronic communications, limitation of liability, indemnification, arbitration, severability, and entire agreement can remain materially the same with brand and product-name updates. (These sections are already drafted broadly enough to cover the pivot.)
+Your existing sections on termination, links to third-party sites, electronic communications, limitation of liability, indemnification, arbitration, severability, and entire agreement can remain materially the same with brand and product-name updates. 
 
 ## **Contact Us**
 
