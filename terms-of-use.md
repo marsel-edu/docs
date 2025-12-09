@@ -66,12 +66,6 @@ AI-generated evaluation reasonings may be displayed to support or reflect user-p
 **Third-Party AI Disclaimer.**\
 The App may incorporate third-party AI models or external integrations not owned or controlled by Company. Company makes no warranties regarding the accuracy, reliability, legality, security, or compliance of third-party AI outputs. Users acknowledge reliance is at their own risk. This is consistent with your existing disclaimer structure.
 
----
-
-## Termination, Privacy Policy, and Other Standard Terms
-
-Your existing sections on termination, links to third-party sites, electronic communications, limitation of liability, indemnification, arbitration, severability, and entire agreement can remain materially the same with brand and product-name updates. 
-
 ## **Contact Us**
 
 For questions about these Terms or to report violations, please contact our legal department at:
