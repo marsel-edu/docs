@@ -64,7 +64,7 @@ Company expressly disclaims responsibility for the accuracy of transcriptions, s
 AI-generated evaluation reasonings may be displayed to support or reflect user-provided score ratings, voice notes, or text notes based on transcript data. **Users remain responsible for validating these reasonings and for all final evaluation decisions.**
 
 **Third-Party AI Disclaimer.**\
-The App may incorporate third-party AI models or external integrations not owned or controlled by Company. Company makes no warranties regarding the accuracy, reliability, legality, security, or compliance of third-party AI outputs. Users acknowledge reliance is at their own risk. This is consistent with your existing disclaimer structure.
+The App may incorporate third-party AI models or external integrations not owned or controlled by Company. Company makes no warranties regarding the accuracy, reliability, legality, security, or compliance of third-party AI outputs. Users acknowledge reliance is at their own risk. 
 
 ## **Contact Us**
 
