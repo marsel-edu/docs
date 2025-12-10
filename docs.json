@@ -3,8 +3,8 @@
   "name": "94Talent Docs",
   "theme": "mint",
   "colors": {
-    "primary": "#E1C8FA",
-    "light": "#E1C8FA",
+    "primary": "#b241f5",
+    "light": "#b241f5",
     "dark": "#E1C8FA"
   },
   "favicon": "/FAVIcon.svg",
@@ -25,7 +25,10 @@
       }
     ]
   },
-  "logo": "/new-logo.svg",
+  "logo": {
+    "light": "/logo/new-logo-light.svg",
+    "dark": "/logo/new-logo-dark.svg"
+  },
   "navbar": {
     "links": []
   },
