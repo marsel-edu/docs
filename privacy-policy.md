@@ -6,7 +6,7 @@ For the purposes of this Privacy Policy, unless otherwise noted, all references 
 
 ## Collection of Your Personal Information
 
-In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These include: 
+In order to better provide you with the services offered, Company may collect personally identifiable information, which falls into categories such as identifiers and customer records information. These include:
 
 - first and last name
 - mailing/billing address
@@ -53,7 +53,7 @@ Company may disclose your personal information, without notice, if required to d
 
 ## Calendar Integration
 
-The Google Calendar integration API is used to retrieve upcoming meeting information and automatically record meetings from the user’s Google Calendar. Memora fully complies with the [**Google API Services User Data Policy**](https://developers.google.com/terms/api-services-user-data-policy?sjid=1441274496721333051-EU#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. Google Workspace APIs are not used to develop, improve, or train generalized AI and/or ML models.
+The Google Calendar integration API is used to retrieve upcoming meeting information and automatically record meetings from the user’s Google Calendar. 94Talent fully complies with the [**Google API Services User Data Policy**](https://developers.google.com/terms/api-services-user-data-policy?sjid=1441274496721333051-EU#additional_requirements_for_specific_api_scopes), including the Limited Use requirements. Google Workspace APIs are not used to develop, improve, or train generalized AI and/or ML models.
 
 ## Automatically Collected Information
 
@@ -67,7 +67,11 @@ The Company website uses “cookies” to enhance and personalize your online ex
 - Analytics Cookies: These help Company understand how visitors interact with Company website by collecting and reporting information anonymously. They assist Company in improving our website and enhancing user experience.
 - Third-Party Advertising Cookies: These are used by our advertising partners to deliver targeted advertisements.
 
-You have the ability to accept or decline cookies through your browser settings. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline them if you prefer. However, if you choose to decline cookies, especially essential ones, you may not be able to fully experience the interactive features of the Company [website.Company](http://website.Company) website does not currently respond to “Do Not Track” (DNT) signals or other similar mechanisms. You can choose to enable or disable the DNT setting in your web browser, which will communicate your DNT preference to websites you visit. However, please note that enabling DNT may not affect the collection of usage and other data by Company [website.Company](http://website.Company) has also integrated Google Analytics with Company website to better understand how users interact with Company website and to improve search engine optimization (SEO). Google Analytics uses cookies to collect data such as user demographics, behavior on the site, and other engagement metrics. For more information about how Google uses your data, you can visit [**https://www.google.com/analytics/terms/us.html**](https://www.google.com/analytics/terms/us.html). To opt out of Google Analytics tracking, you can visit [**https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/) and download the Google Analytics Opt-out Browser Add-on.
+You have the ability to accept or decline cookies through your browser settings. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline them if you prefer. However, if you choose to decline cookies, especially essential ones, you may not be able to fully experience the interactive features of the Company website.
+
+Company website does not currently respond to “Do Not Track” (DNT) signals or other similar mechanisms. You can choose to enable or disable the DNT setting in your web browser, which will communicate your DNT preference to websites you visit. However, please note that enabling DNT may not affect the collection of usage and other data by Company website.
+
+Company has also integrated Google Analytics with Company website to better understand how users interact with Company website and to improve search engine optimization (SEO). Google Analytics uses cookies to collect data such as user demographics, behavior on the site, and other engagement metrics. For more information about how Google uses your data, you can visit [**https://www.google.com/analytics/terms/us.html**](https://www.google.com/analytics/terms/us.html). To opt out of Google Analytics tracking, you can visit [**https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/) and download the Google Analytics Opt-out Browser Add-on.
 
 ## Third-Party Advertising Technologies
 
@@ -104,7 +108,9 @@ Company does not intentionally collect sensitive personal information through it
 
 ## Children’s Privacy
 
-Our services are not directed to individuals under the age of 13, and we do not knowingly collect personal information from anyone under 13 years of age. If you are under 13, please do not attempt to register for or otherwise use our services or send any personal information about yourself to us.If we learn that we have collected personal information from someone under 13 years of age, we will take steps to delete that information as quickly as possible. Parents or legal guardians who believe that a minor under 13 may have provided us with personal information should contact us immediately per the information provided in the Contact Information Section at the end of this Policy.
+Our services are not directed to individuals under the age of 13, and we do not knowingly collect personal information from anyone under 13 years of age. If you are under 13, please do not attempt to register for or otherwise use our services or send any personal information about yourself to us. 
+
+If we learn that we have collected personal information from someone under 13 years of age, we will take steps to delete that information as quickly as possible. Parents or legal guardians who believe that a minor under 13 may have provided us with personal information should contact us immediately per the information provided in the Contact Information Section at the end of this Policy.
 
 ## Your Privacy Rights
 
