@@ -1,4 +1,3 @@
-## **Privacy Policy**
 
 This privacy policy (“Privacy Policy” or “Policy”) applies to [94talent.com](94talent.com) , the **94Talent App**, and **94Talent Inc.** (“Company”, “we”, “us”, “our”), and governs data collection and usage.
 
@@ -108,7 +107,7 @@ Company does not intentionally collect sensitive personal information through it
 
 ## Children’s Privacy
 
-Our services are not directed to individuals under the age of 13, and we do not knowingly collect personal information from anyone under 13 years of age. If you are under 13, please do not attempt to register for or otherwise use our services or send any personal information about yourself to us. 
+Our services are not directed to individuals under the age of 13, and we do not knowingly collect personal information from anyone under 13 years of age. If you are under 13, please do not attempt to register for or otherwise use our services or send any personal information about yourself to us.
 
 If we learn that we have collected personal information from someone under 13 years of age, we will take steps to delete that information as quickly as possible. Parents or legal guardians who believe that a minor under 13 may have provided us with personal information should contact us immediately per the information provided in the Contact Information Section at the end of this Policy.
 
