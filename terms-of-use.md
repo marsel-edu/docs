@@ -1,4 +1,4 @@
-## **Terms of Use**
+## 
 
 Please also review our [**Data Processing Agreement**](./dpa), which is incorporated into these Terms.
 
