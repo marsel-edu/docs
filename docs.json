@@ -3,9 +3,9 @@
   "name": "94Talent Docs",
   "theme": "mint",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#E1C8FA",
+    "light": "#E1C8FA",
+    "dark": "#E1C8FA"
   },
   "favicon": "/favicon.svg",
   "navigation": {
