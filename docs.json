@@ -11,8 +11,14 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Legal",
+        "tab": "Company",
         "groups": [
+          {
+            "group": "Help",
+            "pages": [
+              "support"
+            ]
+          },
           {
             "group": "Policies",
             "pages": [
